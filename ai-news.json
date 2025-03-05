@@ -1,0 +1,21 @@
+{
+  "industry": "Artificial Intelligence",
+  "date": "2025-03-05",
+  "articles": [
+    {
+      "title": "AI Revolutionizes Healthcare Diagnostics",
+      "summary": "New AI systems are outperforming doctors in identifying rare diseases, increasing diagnostic accuracy by 25%.",
+      "url": "https://example.com/article1"
+    },
+    {
+      "title": "Retailers Adopt AI to Personalize Shopping",
+      "summary": "Major retailers are using AI to tailor online shopping experiences, boosting sales and customer satisfaction.",
+      "url": "https://example.com/article2"
+    },
+    {
+      "title": "Financial Firms Use AI for Fraud Detection",
+      "summary": "Banks and fintech companies are leveraging machine learning to detect fraudulent transactions in real-time.",
+      "url": "https://example.com/article3"
+    }
+  ]
+}
